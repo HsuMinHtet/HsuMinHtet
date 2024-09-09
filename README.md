@@ -1,7 +1,7 @@
 
 [![MasterHead](https://raw.githubusercontent.com/HsuMinHtet/my-project/main/DALL%C2%B7E%202024-05-31%2001.45.44%20-%20Banner%20image%20for%20a%20software%20engineer_system%20analyst%20position.%20The%20design%20should%20exude%20good%20personality%2C%20passion%2C%20and%20ability.%20The%20background%20features%20.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hsu Min Htet</h1>
-<h3 align="center">A passionate System Analyst/Software Engineer</h3>
+<h3 align="center">A passionate System Analyst</h3>
 <img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="hsuminhtet" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsuminhtet&label=Profile%20views&color=0e75b6&style=flat" alt="hsuminhtet" /> </p>
